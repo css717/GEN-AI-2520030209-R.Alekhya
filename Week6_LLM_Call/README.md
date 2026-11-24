@@ -52,7 +52,7 @@ python main.py
 
 ---
 
-## 🔍 How It Works
+//How It Works
 
 The evaluation pipeline has 8 steps:
 
