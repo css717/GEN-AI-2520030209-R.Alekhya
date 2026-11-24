@@ -2,7 +2,7 @@
 
 Before you ship an AI feature, you need to know: *can we afford it?* This week builds a **budget calculator** that estimates token usage and costs — and checks if your design fits within API rate limits and spending caps.
 
-## What it does
+// What it does
 
 Takes your usage assumptions from a `.env` file (requests/day, token counts, pricing) and produces a full report:
 
@@ -22,10 +22,10 @@ MONTHLY_BUDGET_USD=50
 DAILY_BUDGET_USD=2
 SAFETY_MARGIN_PERCENT=20
 
-# 3. Run the report
+// 3. Run the report
 python budget.py
 
-# 4. Run tests
+//4. Run tests
 python -m pytest test_budget.py
 ```
 
