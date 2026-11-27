@@ -1,10 +1,5 @@
 Week 7 - LLM Next Token Probability Inspection
 
-Student: R. Alekhya
-Roll Number: 2520030209
-Course: GEN AI Lab
-
-Overview
 
 This project demonstrates how a Large Language Model generates text by inspecting the next token probability distribution. Given an input prompt, the script loads a pretrained causal language model and displays the top predicted tokens along with their logit scores and probabilities.
 
